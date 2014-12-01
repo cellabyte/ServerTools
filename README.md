@@ -1,8 +1,8 @@
 
 # CELLABYTE ServerTools
-### for Apache2 PHP Fastcgi Suexec Server.
+### for Apache2 (PHP Fastcgi Suexec) server.
 
-**CELLABYTE ServerTools** is a software program for (Apache2 PHP Fastcgi Suexec) Server, created and maintained by Roman Verin **@cellabyte**.
+**CELLABYTE ServerTools** is a software program for Apache2 (PHP Fastcgi Suexec) server, created and maintained by Roman Verin **@cellabyte**.
 
 **Note:** _This server tools were tested only in **Ubuntu 12.04 server**_.
 
@@ -30,7 +30,7 @@ Get started at `http://cellabyte.com` _(coming soon...)_.
 
 ## Author
 
-- E-mail: roman(at)cellabyte(dot)com
+- Email: roman(at)cellabyte(dot)com
 
 ## Installation for Linux Server
 
@@ -40,4 +40,4 @@ Download ZIP file.
 	$ cd ServerTools-master
 	$ ./install.sh
 
-**Note:**_ all utility written in PHP for CLI_
+**Note:** _all utility written in PHP for CLI_
